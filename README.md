@@ -5,9 +5,9 @@
 # About Developer(s)
 
 <p> Hello there, I am Ata Yigit Uzay Ustundag (21). I am a Computer Science student who loves developing softwares and learning new things. On my free time I like spending time alone and I mostly spend time reading book, training in TaeKwonDo and Wrestling. If you like the software(s) I develop and want to support me you can always support me through:</p>
-* BuyMeACoffee: [buymeacoffee.com/simpleapps   ](https://www.buymeacoffee.com/ataustundag)
-* YouTube: https://www.youtube.com/channel/UCnI2fV_2-pvYrwjI7KFW0pA
-* Instagram: xatayigit
+- BuyMeACoffee: https://www.buymeacoffee.com/ataustundag
+- YouTube: https://www.youtube.com/channel/UCnI2fV_2-pvYrwjI7KFW0pA
+- Instagram: xatayigit
 
 # Version History:
 
